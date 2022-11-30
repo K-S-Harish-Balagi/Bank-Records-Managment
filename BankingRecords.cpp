@@ -46,10 +46,8 @@ public:
         outfile.open("rec.bank", ios::binary | ios::app); // ios - input output stream | app - append
         // ios::app is set, all output operations are performed at the end of the file.
         readData();
-
         if (count == -1)
             count++;
-        cout << count;
         account_id = 1226450000 + count + 1;
         outfile.write(reinterpret_cast<char *>(this), sizeof(*this));
         infile.close();

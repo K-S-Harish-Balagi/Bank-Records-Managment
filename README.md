@@ -6,17 +6,8 @@ All the records are stored in the rec.bank file which is a user created binary f
 
 by
 
-k.s.Harish balagi
-
+K.S.Harish balagi
 ch.hanok
-
- 
-
- 
-
- 
-
- 
 
 This program contains six options
 

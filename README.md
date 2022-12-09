@@ -79,16 +79,16 @@ We can delete the record which is taken by the user by entering the account numb
 
 
 ![5](https://user-images.githubusercontent.com/85448207/206628376-a9bea495-2091-4705-ac2a-7954c55e568d.png)
+ ![5_1](https://user-images.githubusercontent.com/85448207/206628487-05f4ffa5-23aa-4ad4-bf97-8891c9941350.png)
 
 
-         ![5_1](https://user-images.githubusercontent.com/85448207/206628381-95af9e28-f558-42ea-bf1a-2ea4a6602837.png)
+
 
 
   
 
 At last by using Quit option we can exit the program.
 
- 
 
  
 

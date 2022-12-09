@@ -71,6 +71,9 @@ It displays the previously added records in the file
 
 We can delete the record which is taken by the user by entering the account number.
 
+
+
+
          
 
   
@@ -83,6 +86,6 @@ At last by using Quit option we can exit the program.
 
 UML:-
 
-
+![WhatsApp Image 2022-12-09 at 10 25 56 AM](https://user-images.githubusercontent.com/85448207/206627329-81575872-ca54-421f-954c-fec3927cfbd0.jpeg)
 
  
